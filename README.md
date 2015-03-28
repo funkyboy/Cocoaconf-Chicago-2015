@@ -1,2 +1,2 @@
-Cocoaconf-Boston-2014
-=====================
+Cocoaconf-Chicago-2015
+======================
